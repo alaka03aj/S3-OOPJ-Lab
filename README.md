@@ -45,5 +45,6 @@ Hexagon such that each one of the classes extends the class Shape. Each one of t
 mandatory - **
 
 ### NOTE
--> Few programs are still not completed.
--> If you need the pdf/ doc file of program with output, reach out through mail!
+
+1) Few programs are still not completed.
+2) If you need the pdf/ doc file of program with output, reach out through mail!
